@@ -1,0 +1,5 @@
+#custom-css .icon.icon-logo {
+  background: url('../public/images/bitcointv-logo.png') no-repeat;
+  width: 25px;
+  margin-right: 5px;
+}
